@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+
+*{
+  font-family:'Josefin Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.vishz{
+  color: #FF5F1F;
+}
+
+.vishz:hover{
+  color: black ;
+}
+
+h1{
+  text-align: center;
+  margin-top: 20px;
+  font-size: 5rem;
+  
+}
+
+.input-container{
+  text-align: center;
+  margin-top: 4vh;
+  font-size: 2rem;
+}
+
+.input-container .location-input{
+  font-size: 2rem;
+}
+
+.btn-container{
+  margin: auto;
+  text-align: center;  
+}
+
+.location-btn{
+  margin-top: 2rem;
+  font-size: 2rem;
+  border-radius: 10px;
+  background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+}
+.location-btn:hover{
+  background-color:#FF5F1F;
+  transition: 150ms;
+  color: white;
+  font-size: 1.9rem;
+}
+
+/* SPANS> */
+ .output-container{
+  text-align: center;
+  margin: 2rem;
+  font-size: 1.5rem;
+  
+ }
+ .padding{
+  padding: 0.5rem;
+ }
+
+
+
+
