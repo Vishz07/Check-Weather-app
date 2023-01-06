@@ -59,8 +59,13 @@ h1{
   font-size: 1.5rem;
   
  }
- .padding{
+ .main-tags{
   padding: 0.5rem;
+  font-weight: 800;
+ }
+
+ .sub-tags{
+  color: #FF5F1F;
  }
 
 
